@@ -61,10 +61,7 @@ cd exel-graphicx
 Open a terminal and run:
 
 ```bash
-pip install flask \
-pychartjs \
-pandas \
-decouple
+pip install flask pychartjs pandas decouple
 ```
 
 **3 - Configure the environment variable:**
