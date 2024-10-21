@@ -1,6 +1,6 @@
-# ExcelGraphicx
+# Sheets to Charts
 
-ExcelGraphicx is a web application that allows you to convert .xlsx and .csv files into interactive charts.
+Sheets to Charts is a web application that allows you to convert .xlsx and .csv files into interactive charts.
 
 ## Table of Contents
 
@@ -15,18 +15,7 @@ ExcelGraphicx is a web application that allows you to convert .xlsx and .csv fil
 
 ## Overview
 
-ExcelGraphicx is a user-friendly tool for data visualization. It simplifies the process of creating charts from Excel (.xlsx) and CSV files. With ExcelGraphicx, you can quickly turn your data into insightful visualizations without the need for complex software or coding.
-
-## Screenshots
-
-### Home Page - File Upload
-![Home Page - File Upload](https://snipboard.io/NlIARC.jpg)
-
-### Selecting Axis
-![Selecting Axis](https://snipboard.io/LDaAYi.jpg)
-
-### Generated Graphic
-![Generated Graphic](https://snipboard.io/R8F1ES.jpg)
+Sheets to Charts is a user-friendly tool for data visualization. It simplifies the process of creating charts from Excel (.xlsx) and CSV files. With Sheets to Charts, you can quickly turn your data into insightful visualizations without the need for complex software or coding.
 
 ## Features
 
@@ -51,9 +40,9 @@ Before using this project, ensure that you have the following software installed
 Clone this repository to your local development environment or download the source code.
 
 ```bash
-git clone https://github.com/Mulekotd/exel-graphicx.git
+git clone https://github.com/Mulekotd/sheets-to-charts.git
 
-cd exel-graphicx
+cd sheets-to-charts
 ```
 
 **2 - Install Dependencies with pip:**
@@ -96,4 +85,4 @@ This project is open-source and is provided under the MIT License. You are free 
 
 ## Feedback and Contributions
 
-We welcome feedback, suggestions, and contributions from the community. If you have ideas for improvements or encounter any issues, please don't hesitate to [open an issue](https://github.com/Mulekotd/excel-graphicx/issues) on GitHub.
+We welcome feedback, suggestions, and contributions from the community. If you have ideas for improvements or encounter any issues, please don't hesitate to [open an issue](https://github.com/Mulekotd/sheets-to-charts/issues) on GitHub.
